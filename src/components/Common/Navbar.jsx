@@ -44,7 +44,7 @@ export default function Navbar({ activePage, setActivePage }) {
         }}>
           <Atom className="animate-spin-slow" size={24} color="#0a0b10" />
         </div>
-        <span style={{
+        <span className="logo-text" style={{
           fontFamily: 'var(--font-heading)',
           fontWeight: 800,
           fontSize: '20px',
