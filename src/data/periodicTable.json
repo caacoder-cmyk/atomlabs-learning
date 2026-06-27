@@ -1,0 +1,2273 @@
+[
+  {
+    "number": 1,
+    "symbol": "H",
+    "name": "Hidrogen",
+    "mass": 1.008,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      1
+    ],
+    "electronConfig": "1s¹",
+    "summary": "Unsur paling melimpah di alam semesta. Merupakan gas tidak berwarna, tidak berbau, dan sangat mudah terbakar.",
+    "row": 1,
+    "column": 1,
+    "phase": "Gas"
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "mass": 4.0026,
+    "category": "noble-gas",
+    "shells": [
+      2
+    ],
+    "electronConfig": "1s²",
+    "summary": "Gas mulia yang sangat ringan, tidak reaktif, dan tidak berwarna. Digunakan untuk balon udara dan pendingin superkonduktor.",
+    "row": 1,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": "Litium",
+    "mass": 6.94,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      1
+    ],
+    "electronConfig": "[He] 2s¹",
+    "summary": "Logam alkali paling ringan. Sangat reaktif terhadap air dan digunakan secara luas dalam pembuatan baterai isi ulang modern.",
+    "row": 2,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": "Berilium",
+    "mass": 9.0122,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      2
+    ],
+    "electronConfig": "[He] 2s²",
+    "summary": "Logam berwarna abu-abu baja, kuat, ringan, dan beracun. Digunakan dalam teknologi dirgantara dan militer.",
+    "row": 2,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "mass": 10.81,
+    "category": "metalloid",
+    "shells": [
+      2,
+      3
+    ],
+    "electronConfig": "[He] 2s² 2p¹",
+    "summary": "Metaloid keras dan tahan panas. Digunakan dalam pembuatan kaca borosilikat (Pyrex) dan sebagai semikonduktor.",
+    "row": 2,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": "Karbon",
+    "mass": 12.011,
+    "category": "polyatomic-nonmetal",
+    "shells": [
+      2,
+      4
+    ],
+    "electronConfig": "[He] 2s² 2p²",
+    "summary": "Dasar dari semua kehidupan organik di Bumi. Memiliki berbagai bentuk alotrop seperti grafit yang lunak hingga intan yang sangat keras.",
+    "row": 2,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "mass": 14.007,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      5
+    ],
+    "electronConfig": "[He] 2s² 2p³",
+    "summary": "Gas yang menyusun sekitar 78% atmosfer Bumi. Sangat penting bagi kehidupan dan digunakan sebagai pendingin cair (LN2).",
+    "row": 2,
+    "column": 15,
+    "phase": "Gas"
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": "Oksigen",
+    "mass": 15.999,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      6
+    ],
+    "electronConfig": "[He] 2s² 2p⁴",
+    "summary": "Unsur yang sangat reaktif dan vital bagi respirasi makhluk hidup. Menyusun sekitar 21% atmosfer Bumi.",
+    "row": 2,
+    "column": 16,
+    "phase": "Gas"
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": "Fluor",
+    "mass": 18.998,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      7
+    ],
+    "electronConfig": "[He] 2s² 2p⁵",
+    "summary": "Halogen gas berwarna kuning pucat. Merupakan unsur paling elektronegatif dan sangat reaktif, bereaksi dengan hampir semua zat.",
+    "row": 2,
+    "column": 17,
+    "phase": "Gas"
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "mass": 20.18,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8
+    ],
+    "electronConfig": "[He] 2s² 2p⁶",
+    "summary": "Gas mulia yang tidak berwarna dan tidak reaktif. Bersinar oranye kemerahan saat digunakan dalam lampu tabung lucutan gas.",
+    "row": 2,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": "Natrium",
+    "mass": 22.99,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      8,
+      1
+    ],
+    "electronConfig": "[Ne] 3s¹",
+    "summary": "Logam alkali lunak berwarna keperakan yang sangat reaktif. Bereaksi hebat dengan air dan ditemukan dalam garam dapur (NaCl).",
+    "row": 3,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "mass": 24.305,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      8,
+      2
+    ],
+    "electronConfig": "[Ne] 3s²",
+    "summary": "Logam alkali tanah yang ringan dan kuat. Terbakar dengan cahaya putih terang dan penting untuk fungsi seluler tubuh manusia.",
+    "row": 3,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": "Aluminium",
+    "mass": 26.982,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      3
+    ],
+    "electronConfig": "[Ne] 3s² 3p¹",
+    "summary": "Logam pasca-transisi yang ringan, kuat, dan tahan korosi. Logam paling melimpah di kerak Bumi, digunakan dalam berbagai industri.",
+    "row": 3,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": "Silikon",
+    "mass": 28.085,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      4
+    ],
+    "electronConfig": "[Ne] 3s² 3p²",
+    "summary": "Metaloid abu-abu gelap mengkilap. Merupakan bahan semikonduktor dasar yang sangat penting untuk pembuatan chip komputer dan mikroelektronika.",
+    "row": 3,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": "Fosfor",
+    "mass": 30.974,
+    "category": "polyatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      5
+    ],
+    "electronConfig": "[Ne] 3s² 3p³",
+    "summary": "Nonlogam reaktif yang tidak pernah ditemukan bebas di alam. Bentuk alositasnya yang umum adalah fosfor merah (korek api) dan fosfor putih (beracun).",
+    "row": 3,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": "Belerang",
+    "mass": 32.06,
+    "category": "polyatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      6
+    ],
+    "electronConfig": "[Ne] 3s² 3p⁴",
+    "summary": "Nonlogam padat kuning pucat. Memiliki bau khas menyengat saat terbakar (SO2). Digunakan untuk pupuk, bubuk mesiu, dan vulkanisasi karet.",
+    "row": 3,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": "Klorin",
+    "mass": 35.45,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      7
+    ],
+    "electronConfig": "[Ne] 3s² 3p⁵",
+    "summary": "Gas halogen berwarna kuning-hijau pucat, berbau tajam dan sangat beracun. Digunakan sebagai disinfektan air dan pemutih.",
+    "row": 3,
+    "column": 17,
+    "phase": "Gas"
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "mass": 39.948,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8,
+      8
+    ],
+    "electronConfig": "[Ne] 3s² 3p⁶",
+    "summary": "Gas mulia ketiga paling melimpah di atmosfer Bumi. Tidak reaktif dan digunakan untuk menciptakan atmosfer inert dalam pengelasan dan bola lampu.",
+    "row": 3,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": "Kalium",
+    "mass": 39.098,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      8,
+      8,
+      1
+    ],
+    "electronConfig": "[Ar] 4s¹",
+    "summary": "Logam alkali lunak berwarna keperakan yang sangat reaktif. Sangat penting bagi fungsi saraf dan otot makhluk hidup.",
+    "row": 4,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": "Kalsium",
+    "mass": 40.078,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      8,
+      8,
+      2
+    ],
+    "electronConfig": "[Ar] 4s²",
+    "summary": "Logam alkali tanah abu-abu keperakan yang penting untuk pembentukan tulang, gigi, dan cangkang pada organisme hidup.",
+    "row": 4,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": "Skandium",
+    "mass": 44.9559085,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      9,
+      2
+    ],
+    "electronConfig": "[Ar] 3d1 4s2",
+    "summary": "Skandium adalah suatu unsur kimia dengan simbol Sc dan nomor atom 21. Merupakan unsur blok d metalik berwarna putih keperakan, secara historis kadang-kadang diklasifikasikan sebagai unsur tanah jarang, bersama dengan yttrium dan lantanoid. Ditemukan pada tahun 1879 melalui analisis spektral mineral euxenite dan gadolinite dari Skandinavia.",
+    "row": 4,
+    "column": 3,
+    "phase": "Padat"
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "mass": 47.8671,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      10,
+      2
+    ],
+    "electronConfig": "[Ar] 3d2 4s2",
+    "summary": "Titanium adalah unsur kimia dengan simbol Ti dan nomor atom 22. Merupakan logam transisi berkilau dengan warna perak, kepadatan rendah dan kekuatan tinggi. Sangat tahan terhadap korosi pada air laut, aqua regia dan klorin.",
+    "row": 4,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "mass": 50.94151,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      11,
+      2
+    ],
+    "electronConfig": "[Ar] 3d3 4s2",
+    "summary": "Vanadium adalah unsur kimia dengan simbol V dan nomor atom 23. Merupakan logam transisi yang keras, berwarna abu-abu keperakan, ulet, dan mudah dibentuk. Unsur ini hanya ditemukan dalam bentuk gabungan kimia di alam, tetapi setelah diisolasi secara artifisial, pembentukan lapisan oksida akan menstabilkan logam bebas terhadap oksidasi lebih lanjut.",
+    "row": 4,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": "Kromium",
+    "mass": 51.99616,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      13,
+      1
+    ],
+    "electronConfig": "[Ar] 3d5 4s1",
+    "summary": "Kromium adalah suatu unsur kimia dengan simbol Cr dan nomor atom 24. Kromium adalah unsur pertama dalam Golongan 6. Kromium merupakan logam berwarna abu-abu baja, berkilau, keras dan rapuh, mudah dipoles, tahan noda, dan memiliki titik leleh tinggi.",
+    "row": 4,
+    "column": 6,
+    "phase": "Padat"
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": "Mangan",
+    "mass": 54.9380443,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      13,
+      2
+    ],
+    "electronConfig": "[Ar] 3d5 4s2",
+    "summary": "Mangan adalah suatu unsur kimia dengan simbol Mn dan nomor atom 25. Ia tidak ditemukan sebagai unsur bebas di alam; sering ditemukan dalam kombinasi dengan zat besi, dan banyak mineral. Mangan adalah logam dengan kegunaan paduan logam industri yang penting, khususnya pada baja tahan karat.",
+    "row": 4,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": "Besi",
+    "mass": 55.845,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      14,
+      2
+    ],
+    "electronConfig": "[Ar] 3d⁶ 4s²",
+    "summary": "Logam transisi yang paling banyak digunakan di Bumi. Merupakan bahan utama baja dan bagian penting dari hemoglobin dalam darah.",
+    "row": 4,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": "Kobalt",
+    "mass": 58.9331944,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      15,
+      2
+    ],
+    "electronConfig": "[Ar] 3d7 4s2",
+    "summary": "Cobalt adalah unsur kimia dengan simbol Co dan nomor atom 27. Seperti nikel, kobalt di kerak bumi hanya ditemukan dalam bentuk gabungan kimia, kecuali endapan kecil yang ditemukan pada paduan besi meteorik alami. Unsur bebas, yang dihasilkan melalui peleburan reduktif, adalah logam keras, berkilau, berwarna abu-abu keperakan.",
+    "row": 4,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": "Nikel",
+    "mass": 58.69344,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      16,
+      2
+    ],
+    "electronConfig": "[Ar] 3d8 4s2",
+    "summary": "Nikel adalah unsur kimia dengan simbol Ni dan nomor atom 28. Nikel merupakan logam berkilau berwarna putih keperakan dengan sedikit semburat emas. Nikel termasuk dalam logam transisi dan bersifat keras serta ulet.",
+    "row": 4,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": "Tembaga",
+    "mass": 63.546,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      1
+    ],
+    "electronConfig": "[Ar] 3d¹⁰ 4s¹",
+    "summary": "Logam kemerahan dengan konduktivitas listrik dan panas yang sangat tinggi. Digunakan secara luas untuk kabel listrik dan pipa air.",
+    "row": 4,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": "Seng",
+    "mass": 65.382,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      2
+    ],
+    "electronConfig": "[Ar] 3d10 4s2",
+    "summary": "Seng, dalam perdagangan juga spelter, adalah suatu unsur kimia dengan simbol Zn dan nomor atom 30. Seng adalah unsur pertama golongan 12 pada tabel periodik. Dalam beberapa hal seng secara kimiawi mirip dengan magnesium: ionnya berukuran sama dan satu-satunya bilangan oksidasi yang umum adalah +2.",
+    "row": 4,
+    "column": 12,
+    "phase": "Padat"
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": "Galium",
+    "mass": 69.7231,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      3
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p1",
+    "summary": "Gallium adalah unsur kimia dengan simbol Ga dan nomor atom 31. Unsur galium tidak terdapat dalam bentuk bebas di alam, tetapi sebagai senyawa galium(III) yang terdapat dalam jumlah kecil pada bijih seng dan bauksit. Gallium adalah logam lunak berwarna keperakan, dan unsur galium adalah padatan rapuh pada suhu rendah, dan meleleh pada suhu 29,76 °C (85,57 °F) (sedikit di atas suhu kamar).",
+    "row": 4,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "mass": 72.6308,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      4
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p2",
+    "summary": "Germanium adalah unsur kimia dengan simbol Ge dan nomor atom 32. Merupakan metaloid putih keabu-abuan yang berkilau, keras, dalam gugus karbon, secara kimia mirip dengan tetangganya, timah dan silikon. Germanium yang dimurnikan adalah semikonduktor, dengan penampilan paling mirip dengan unsur silikon.",
+    "row": 4,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": "Arsenik",
+    "mass": 74.9215956,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      5
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p3",
+    "summary": "Arsenik adalah unsur kimia dengan simbol As dan nomor atom 33. Arsenik terdapat di banyak mineral, biasanya bersama dengan belerang dan logam, dan juga sebagai kristal unsur murni. Arsenik adalah metaloid.",
+    "row": 4,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "mass": 78.9718,
+    "category": "polyatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      18,
+      6
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p4",
+    "summary": "Selenium adalah suatu unsur kimia dengan simbol Se dan nomor atom 34. Selenium merupakan unsur bukan logam yang sifat-sifatnya berada di antara sifat-sifat unsur kalkogen yang berdekatan dengan kolom tabel periodik, belerang dan telurium. Jarang terjadi dalam bentuk unsur di alam, atau sebagai senyawa bijih murni.",
+    "row": 4,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": "Bromin",
+    "mass": 79.904,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      18,
+      7
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p5",
+    "summary": "Brom (dari bahasa Yunani Kuno:βρῶμος, brómos, yang berarti \"bau busuk\") adalah suatu unsur kimia dengan simbol Br, dan nomor atom 35. Merupakan unsur halogen. Unsur ini diisolasi secara independen oleh dua ahli kimia, Carl Jacob Löwig dan Antoine Jerome Balard, pada tahun 1825–1826.",
+    "row": 4,
+    "column": 17,
+    "phase": "Cair"
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": "Kripton",
+    "mass": 83.7982,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8,
+      18,
+      8
+    ],
+    "electronConfig": "[Ar] 3d10 4s2 4p6",
+    "summary": "Kripton (dari bahasa Yunani:κρυπτός kryptos \"yang tersembunyi\") adalah suatu unsur kimia dengan simbol Kr dan nomor atom 36. Ia adalah anggota unsur golongan 18 (gas mulia). Sebuah gas mulia yang tidak berwarna, tidak berbau, dan tidak berasa, kripton terdapat dalam jumlah kecil di atmosfer, diisolasi dengan penyulingan fraksional udara cair, dan sering digunakan dengan gas langka lainnya dalam lampu neon.",
+    "row": 4,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "mass": 85.46783,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      8,
+      1
+    ],
+    "electronConfig": "[Kr] 5s1",
+    "summary": "Rubidium adalah suatu unsur kimia dengan lambang Rb dan nomor atom 37. Rubidium adalah unsur logam lunak berwarna putih keperakan dari golongan logam alkali, dengan massa atom 85,4678. Unsur rubidium sangat reaktif, dengan sifat yang mirip dengan logam alkali lainnya, seperti oksidasi yang sangat cepat di udara.",
+    "row": 5,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": "Stronsium",
+    "mass": 87.621,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      8,
+      2
+    ],
+    "electronConfig": "[Kr] 5s2",
+    "summary": "Strontium adalah suatu unsur kimia dengan lambang Sr dan nomor atom 38. Merupakan logam alkali tanah, strontium adalah unsur logam lunak berwarna putih keperakan atau kekuningan yang sangat reaktif secara kimia. Logam menjadi kuning ketika terkena udara.",
+    "row": 5,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": "Itrium",
+    "mass": 88.905842,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      9,
+      2
+    ],
+    "electronConfig": "[Kr] 4d1 5s2",
+    "summary": "Yttrium adalah unsur kimia dengan simbol Y dan nomor atom 39. Ini adalah logam transisi keperakan-logam yang secara kimia mirip dengan lantanida dan sering diklasifikasikan sebagai \"unsur tanah jarang\". Yttrium hampir selalu ditemukan dikombinasikan dengan lantanida dalam mineral tanah jarang dan tidak pernah ditemukan di alam sebagai unsur bebas.",
+    "row": 5,
+    "column": 3,
+    "phase": "Padat"
+  },
+  {
+    "number": 40,
+    "symbol": "Zr",
+    "name": "Zirkonium",
+    "mass": 91.2242,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      10,
+      2
+    ],
+    "electronConfig": "[Kr] 4d2 5s2",
+    "summary": "Zirkonium adalah suatu unsur kimia dengan lambang Zr dan nomor atom 40. Nama zirkonium diambil dari nama mineral zirkon, sumber zirkonium terpenting. Kata zirkon berasal dari kata Persia zargun زرگون, yang berarti \"berwarna emas\".",
+    "row": 5,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "mass": 92.906372,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      12,
+      1
+    ],
+    "electronConfig": "[Kr] 4d4 5s1",
+    "summary": "Niobium, sebelumnya columbium, adalah suatu unsur kimia dengan simbol Nb (sebelumnya Cb) dan nomor atom 41. Merupakan logam transisi lunak, abu-abu, dan ulet, yang sering ditemukan dalam mineral piroklor, sumber komersial utama niobium, dan kolumbita. Nama tersebut berasal dari mitologi Yunani: Niobe, putri Tantalus karena sangat mirip dengan tantalum.",
+    "row": 5,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 42,
+    "symbol": "Mo",
+    "name": "Molibdenu",
+    "mass": 95.951,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      13,
+      1
+    ],
+    "electronConfig": "[Kr] 4d5 5s1",
+    "summary": "Molibdenum adalah suatu unsur kimia dengan simbol Mo dan nomor atom 42. Namanya berasal dari Neo-Latin molybdaenum, dari bahasa Yunani Kuno Μόλυβδος molybdos, yang berarti timbal, karena bijihnya disalahartikan sebagai bijih timah. Mineral molibdenum telah dikenal sepanjang sejarah, namun unsur tersebut ditemukan (dalam arti membedakannya sebagai entitas baru dari garam mineral logam lain) pada tahun 1778 oleh Carl Wilhelm Scheele.",
+    "row": 5,
+    "column": 6,
+    "phase": "Padat"
+  },
+  {
+    "number": 43,
+    "symbol": "Tc",
+    "name": "Teknesium",
+    "mass": 98,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      13,
+      2
+    ],
+    "electronConfig": "[Kr] 4d5 5s2",
+    "summary": "Technetium (/tɛkˈniːʃiəm/) adalah suatu unsur kimia dengan simbol Tc dan nomor atom 43. Ini adalah unsur dengan nomor atom terendah dalam tabel periodik yang tidak memiliki isotop stabil: setiap bentuknya bersifat radioaktif. Hampir semua teknesium diproduksi secara sintetis, dan hanya dalam jumlah kecil yang ditemukan di alam.",
+    "row": 5,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 44,
+    "symbol": "Ru",
+    "name": "Rutenium",
+    "mass": 101.072,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      15,
+      1
+    ],
+    "electronConfig": "[Kr] 4d7 5s1",
+    "summary": "Rutenium adalah unsur kimia dengan simbol Ru dan nomor atom 44. Ini adalah logam transisi langka yang termasuk dalam kelompok platina pada tabel periodik. Seperti logam lain dari kelompok platina, rutenium bersifat inert terhadap sebagian besar bahan kimia lainnya.",
+    "row": 5,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 45,
+    "symbol": "Rh",
+    "name": "Rodium",
+    "mass": 102.905502,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      16,
+      1
+    ],
+    "electronConfig": "[Kr] 4d8 5s1",
+    "summary": "Rhodium adalah unsur kimia dengan simbol Rh dan nomor atom 45. Merupakan logam transisi langka, berwarna putih keperakan, keras, dan inert secara kimia. Ini adalah anggota grup platinum.",
+    "row": 5,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 46,
+    "symbol": "Pd",
+    "name": "Paladium",
+    "mass": 106.421,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18
+    ],
+    "electronConfig": "[Kr] 4d10",
+    "summary": "Paladium adalah unsur kimia dengan simbol Pd dan nomor atom 46. Merupakan logam putih keperakan langka dan berkilau yang ditemukan pada tahun 1803 oleh William Hyde Wollaston. Dia menamainya setelah asteroid Pallas, yang diambil dari julukan dewi Yunani Athena, yang diperolehnya saat dia membunuh Pallas.",
+    "row": 5,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 47,
+    "symbol": "Ag",
+    "name": "Perak",
+    "mass": 107.87,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      1
+    ],
+    "electronConfig": "[Kr] 4d¹⁰ 5s¹",
+    "summary": "Logam mulia putih mengkilap yang memiliki konduktivitas listrik, konduktivitas panas, dan reflektivitas tertinggi dibanding logam apa pun.",
+    "row": 5,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 48,
+    "symbol": "Cd",
+    "name": "Kadmium",
+    "mass": 112.4144,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      2
+    ],
+    "electronConfig": "[Kr] 4d10 5s2",
+    "summary": "Kadmium adalah suatu unsur kimia dengan lambang Cd dan nomor atom 48. Logam lunak berwarna putih kebiruan ini secara kimiawi mirip dengan dua logam stabil lainnya pada golongan 12, seng dan merkuri. Seperti seng, ia lebih menyukai bilangan oksidasi +2 di sebagian besar senyawanya dan seperti merkuri, ia menunjukkan titik leleh yang rendah dibandingkan dengan logam transisi.",
+    "row": 5,
+    "column": 12,
+    "phase": "Padat"
+  },
+  {
+    "number": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "mass": 114.8181,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      3
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p1",
+    "summary": "Indium adalah suatu unsur kimia dengan lambang In dan nomor atom 49. Merupakan unsur logam pasca transisi yang jarang ditemukan di kerak bumi. Logam ini sangat lunak, mudah ditempa, dan mudah melebur, dengan titik leleh lebih tinggi dari natrium, tetapi lebih rendah dari litium atau timah.",
+    "row": 5,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 50,
+    "symbol": "Sn",
+    "name": "Timah",
+    "mass": 118.7107,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      4
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p2",
+    "summary": "Timah adalah suatu unsur kimia dengan lambang Sn (bahasa Latin:stannum) dan nomor atom 50. Timah merupakan logam golongan utama pada golongan 14 tabel periodik. Timah menunjukkan kemiripan kimia dengan unsur tetangganya golongan-14, germanium dan timbal, dan memiliki dua kemungkinan bilangan oksidasi, +2 dan +4 yang sedikit lebih stabil.",
+    "row": 5,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 51,
+    "symbol": "Sb",
+    "name": "Antimon",
+    "mass": 121.7601,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      5
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p3",
+    "summary": "Antimon adalah unsur kimia dengan simbol Sb (dari bahasa Latin:stibium) dan nomor atom 51. Merupakan metaloid abu-abu berkilau, ditemukan di alam terutama sebagai mineral sulfida stibnite (Sb2S3). Senyawa antimon telah dikenal sejak zaman dahulu dan digunakan untuk kosmetik; antimon logam juga diketahui, namun secara keliru diidentifikasi sebagai timbal pada penemuannya.",
+    "row": 5,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 52,
+    "symbol": "Te",
+    "name": "Telurium",
+    "mass": 127.603,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      6
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p4",
+    "summary": "Telurium adalah unsur kimia dengan simbol Te dan nomor atom 52. Merupakan metaloid putih keperakan yang rapuh, agak beracun, langka. Telurium secara kimia berhubungan dengan selenium dan belerang.",
+    "row": 5,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 53,
+    "symbol": "I",
+    "name": "Iodium",
+    "mass": 126.904473,
+    "category": "diatomic-nonmetal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      7
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p5",
+    "summary": "Yodium adalah suatu unsur kimia dengan lambang I dan nomor atom 53. Namanya berasal dari bahasa Yunani ἰοειδής ioeidēs, artinya ungu atau ungu, karena warna uap yodium. Yodium dan senyawanya terutama digunakan dalam nutrisi, dan industri dalam produksi asam asetat dan polimer tertentu.",
+    "row": 5,
+    "column": 17,
+    "phase": "Padat"
+  },
+  {
+    "number": 54,
+    "symbol": "Xe",
+    "name": "Ksenon",
+    "mass": 131.2936,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8
+    ],
+    "electronConfig": "[Kr] 4d10 5s2 5p6",
+    "summary": "Xenon adalah unsur kimia dengan simbol Xe dan nomor atom 54. Ini adalah gas mulia yang tidak berwarna, padat, dan tidak berbau, yang terdapat di atmosfer bumi dalam jumlah kecil. Meskipun umumnya tidak reaktif, xenon dapat mengalami beberapa reaksi kimia seperti pembentukan xenon hexafluoroplatinate, senyawa gas mulia pertama yang disintesis.",
+    "row": 5,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 55,
+    "symbol": "Cs",
+    "name": "Sesium",
+    "mass": 132.905451966,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      1
+    ],
+    "electronConfig": "[Xe] 6s1",
+    "summary": "Cesium atau cesium adalah unsur kimia dengan simbol Cs dan nomor atom 55. Ini adalah logam alkali lunak berwarna emas keperakan dengan titik leleh 28 °C (82 °F), yang menjadikannya salah satu dari hanya lima unsur logam yang berbentuk cair pada atau mendekati suhu kamar. Cesium merupakan logam alkali dan memiliki sifat fisik dan kimia yang mirip dengan rubidium dan kalium.",
+    "row": 6,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "mass": 137.3277,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 6s2",
+    "summary": "Barium adalah unsur kimia dengan simbol Ba dan nomor atom 56. Ini adalah unsur kelima dalam Golongan 2, logam alkali tanah lunak berwarna keperakan. Karena reaktivitas kimianya yang tinggi, barium tidak pernah ditemukan di alam sebagai unsur bebas.",
+    "row": 6,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 57,
+    "symbol": "La",
+    "name": "Lantanum",
+    "mass": 138.905477,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      18,
+      9,
+      2
+    ],
+    "electronConfig": "[Xe] 5d16s2",
+    "summary": "Lantanum adalah unsur kimia metalik berwarna putih keperakan yang lembut, ulet, dengan simbol La dan nomor atom 57. Lantanum cepat memudar jika terkena udara dan cukup lunak untuk dipotong dengan pisau. Ia memberi namanya pada deret lantanida, sekelompok 15 unsur serupa antara lantanum dan lutetium dalam tabel periodik: ia juga kadang-kadang dianggap sebagai unsur pertama dari logam transisi periode ke-6.",
+    "row": 8,
+    "column": 3,
+    "phase": "Padat"
+  },
+  {
+    "number": 58,
+    "symbol": "Ce",
+    "name": "Serium",
+    "mass": 140.1161,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      19,
+      9,
+      2
+    ],
+    "electronConfig": "[Xe] 4f1 5d1 6s2",
+    "summary": "Cerium adalah suatu unsur kimia dengan lambang Ce dan nomor atom 58. Cerium merupakan logam lunak, berwarna keperakan, ulet yang mudah teroksidasi di udara. Nama Cerium diambil dari nama planet kerdil Ceres (namanya diambil dari nama dewi pertanian Romawi).",
+    "row": 8,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 59,
+    "symbol": "Pr",
+    "name": "Praseodimium",
+    "mass": 140.907662,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      21,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f3 6s2",
+    "summary": "Praseodymium adalah suatu unsur kimia dengan lambang Pr dan nomor atom 59. Praseodymium adalah logam lunak, berwarna keperakan, mudah dibentuk, dan ulet dalam golongan lantanida. Ia dihargai karena sifat magnetik, listrik, kimia, dan optiknya.",
+    "row": 8,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 60,
+    "symbol": "Nd",
+    "name": "Neodimium",
+    "mass": 144.2423,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      22,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f4 6s2",
+    "summary": "Neodymium adalah unsur kimia dengan simbol Nd dan nomor atom 60. Merupakan logam lunak berwarna keperakan yang mudah ternoda di udara. Neodymium ditemukan pada tahun 1885 oleh ahli kimia Austria Carl Auer von Welsbach.",
+    "row": 8,
+    "column": 6,
+    "phase": "Padat"
+  },
+  {
+    "number": 61,
+    "symbol": "Pm",
+    "name": "Prometium",
+    "mass": 145,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      23,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f5 6s2",
+    "summary": "Promethium, aslinya prometheum, adalah suatu unsur kimia dengan simbol Pm dan nomor atom 61. Semua isotopnya bersifat radioaktif; ia adalah salah satu dari hanya dua unsur yang dalam tabel periodik diikuti oleh unsur-unsur dengan bentuk stabil, perbedaan yang sama dengan teknesium. Secara kimia, prometium adalah lantanida, yang membentuk garam jika digabungkan dengan unsur lain.",
+    "row": 8,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "mass": 150.362,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      24,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f6 6s2",
+    "summary": "Samarium adalah suatu unsur kimia dengan simbol Sm dan nomor atom 62. Merupakan logam keperakan agak keras yang mudah teroksidasi di udara. Menjadi anggota khas deret lantanida, samarium biasanya mengasumsikan bilangan oksidasi +3.",
+    "row": 8,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "mass": 151.9641,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      25,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f7 6s2",
+    "summary": "Europium adalah suatu unsur kimia dengan simbol Eu dan nomor atom 63. Ia diisolasi pada tahun 1901 dan dinamai menurut benua Eropa. Ini adalah logam keperakan yang cukup keras dan mudah teroksidasi di udara dan air.",
+    "row": 8,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "mass": 157.253,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      25,
+      9,
+      2
+    ],
+    "electronConfig": "[Xe] 4f7 5d1 6s2",
+    "summary": "Gadolinium adalah unsur kimia dengan simbol Gd dan nomor atom 64. Merupakan logam tanah jarang berwarna putih keperakan, mudah dibentuk, dan ulet. Itu ditemukan di alam hanya dalam bentuk gabungan (garam).",
+    "row": 8,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "mass": 158.925352,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      27,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f9 6s2",
+    "summary": "Terbium adalah suatu unsur kimia dengan lambang Tb dan nomor atom 65. Merupakan logam tanah jarang berwarna putih keperakan yang mudah dibentuk, ulet, dan cukup lunak untuk dipotong dengan pisau. Terbium tidak pernah ditemukan di alam sebagai unsur bebas, namun terkandung dalam banyak mineral, termasuk cerite, gadolinit, monasit, xenotime, dan euxenite.",
+    "row": 8,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 66,
+    "symbol": "Dy",
+    "name": "Disprosium",
+    "mass": 162.5001,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      28,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f10 6s2",
+    "summary": "Disprosium adalah suatu unsur kimia dengan lambang Dy dan nomor atom 66. Merupakan unsur tanah jarang dengan kilau perak metalik. Disprosium tidak pernah ditemukan di alam sebagai unsur bebas, meskipun ditemukan dalam berbagai mineral, seperti xenotime.",
+    "row": 8,
+    "column": 12,
+    "phase": "Padat"
+  },
+  {
+    "number": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "mass": 164.930332,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      29,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f11 6s2",
+    "summary": "Holmium adalah suatu unsur kimia dengan lambang Ho dan nomor atom 67. Bagian dari deret lantanida, holmium merupakan unsur tanah jarang. Holmium ditemukan oleh ahli kimia Swedia Per Theodor Cleve.",
+    "row": 8,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "mass": 167.2593,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      30,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f12 6s2",
+    "summary": "Erbium adalah unsur kimia dalam deret lantanida, dengan lambang Er dan nomor atom 68. Merupakan logam padat berwarna putih keperakan jika diisolasi secara buatan, erbium alami selalu ditemukan dalam kombinasi kimia dengan unsur lain di Bumi. Dengan demikian, ini adalah unsur tanah jarang yang berasosiasi dengan beberapa unsur langka lainnya dalam mineral gadolinit dari Ytterby di Swedia, tempat ditemukannya yttrium, ytterbium, dan terbium.",
+    "row": 8,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 69,
+    "symbol": "Tm",
+    "name": "Tulium",
+    "mass": 168.934222,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      31,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f13 6s2",
+    "summary": "Thulium adalah unsur kimia dengan simbol Tm dan nomor atom 69. Merupakan unsur ketiga belas dan antepenultimate (ketiga terakhir) dalam deret lantanida. Seperti lantanida lainnya, bilangan oksidasi yang paling umum adalah +3, terlihat pada oksida, halida, dan senyawa lainnya.",
+    "row": 8,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 70,
+    "symbol": "Yb",
+    "name": "Iterbium",
+    "mass": 173.0451,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      8,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 6s2",
+    "summary": "Ytterbium adalah unsur kimia dengan simbol Yb dan nomor atom 70. Ini adalah unsur keempat belas dan kedua dari belakang dalam deret lantanida, yang merupakan dasar dari stabilitas relatif bilangan oksidasi +2. Namun, seperti lantanida lainnya, bilangan oksidasi yang paling umum adalah +3, terlihat pada oksida, halida, dan senyawa lainnya.",
+    "row": 8,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 71,
+    "symbol": "Lu",
+    "name": "Lutesium",
+    "mass": 174.96681,
+    "category": "lanthanide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      9,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d1 6s2",
+    "summary": "Lutetium adalah unsur kimia dengan simbol Lu dan nomor atom 71. Merupakan logam berwarna putih keperakan, tahan korosi di udara kering, tetapi tidak di udara lembab. Ia dianggap sebagai unsur pertama dari logam transisi periode ke-6 dan unsur terakhir dalam deret lantanida, dan secara tradisional termasuk di antara tanah jarang.",
+    "row": 8,
+    "column": 17,
+    "phase": "Padat"
+  },
+  {
+    "number": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "mass": 178.492,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      10,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d2 6s2",
+    "summary": "Hafnium adalah unsur kimia dengan simbol Hf dan nomor atom 72. Merupakan logam transisi tetravalen berwarna abu-abu keperakan, hafnium secara kimia menyerupai zirkonium dan ditemukan dalam mineral zirkonium. Keberadaannya telah diprediksi oleh Dmitri Mendeleev pada tahun 1869, meskipun ia baru teridentifikasi pada tahun 1923, menjadikannya unsur stabil kedua dari belakang yang ditemukan (renium diidentifikasi dua tahun kemudian).",
+    "row": 6,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "mass": 180.947882,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      11,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d3 6s2",
+    "summary": "Tantalum adalah suatu unsur kimia dengan lambang Ta dan nomor atom 73. Sebelumnya dikenal dengan nama tantalium, namanya berasal dari Tantalus, seorang antihero dari mitologi Yunani. Tantalum adalah logam transisi langka, keras, biru keabu-abuan, berkilau dan sangat tahan korosi.",
+    "row": 6,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 74,
+    "symbol": "W",
+    "name": "Wolfram",
+    "mass": 183.841,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      12,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d4 6s2",
+    "summary": "Tungsten, juga dikenal sebagai wolfram, adalah suatu unsur kimia dengan simbol W dan nomor atom 74. Kata tungsten berasal dari bahasa Swedia tung sten, yang artinya batu berat. Namanya dalam bahasa Swedia adalah volfram, namun untuk membedakannya dari scheelite, yang dalam bahasa Swedia disebut tungsten.",
+    "row": 6,
+    "column": 6,
+    "phase": "Padat"
+  },
+  {
+    "number": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "mass": 186.2071,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      13,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d5 6s2",
+    "summary": "Renium adalah unsur kimia dengan simbol Re dan nomor atom 75. Merupakan logam transisi baris ketiga berwarna putih keperakan, berat, dalam golongan 7 tabel periodik. Dengan perkiraan konsentrasi rata-rata 1 bagian per miliar (ppb), renium merupakan salah satu unsur paling langka di kerak bumi.",
+    "row": 6,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "mass": 190.233,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      14,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d6 6s2",
+    "summary": "Osmium (dari bahasa Yunani osme (ὀσμή) yang berarti \"bau\") adalah suatu unsur kimia dengan simbol Os dan nomor atom 76. Osmium adalah logam transisi yang keras, rapuh, berwarna putih kebiruan dalam golongan platina yang ditemukan sebagai unsur jejak dalam paduan, sebagian besar dalam bijih platina. Osmium adalah unsur alami terpadat, dengan massa jenis 22,59 g/cm3.",
+    "row": 6,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "mass": 192.2173,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      15,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d7 6s2",
+    "summary": "Iridium adalah suatu unsur kimia dengan simbol Ir dan nomor atom 77. Merupakan logam transisi yang sangat keras, rapuh, berwarna putih keperakan dari golongan platina, iridium umumnya dianggap sebagai unsur terpadat kedua (setelah osmium) berdasarkan massa jenis yang diukur, meskipun perhitungan yang melibatkan kisi ruang unsur-unsur tersebut menunjukkan bahwa iridium lebih padat. Ini juga merupakan logam yang paling tahan korosi, bahkan pada suhu setinggi 2000 °C. Meskipun hanya garam cair dan halogen tertentu yang bersifat korosif terhadap iridium padat, debu iridium yang terbagi halus jauh lebih reaktif dan mudah terbakar.",
+    "row": 6,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 78,
+    "symbol": "Pt",
+    "name": "Platina",
+    "mass": 195.0849,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      17,
+      1
+    ],
+    "electronConfig": "[Xe] 4f14 5d9 6s1",
+    "summary": "Platinum adalah unsur kimia dengan simbol Pt dan nomor atom 78. Platinum merupakan logam transisi padat, mudah dibentuk, ulet, sangat tidak reaktif, berharga, berwarna putih abu-abu. Namanya berasal dari istilah Spanyol platina, yang secara harfiah diterjemahkan menjadi \"perak kecil\".",
+    "row": 6,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 79,
+    "symbol": "Au",
+    "name": "Emas",
+    "mass": 196.97,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      1
+    ],
+    "electronConfig": "[Xe] 4f¹⁴ 5d¹⁰ 6s¹",
+    "summary": "Logam mulia kuning padat yang sangat tahan korosi dan sangat lunak. Berharga tinggi sejak zaman kuno untuk perhiasan dan mata uang.",
+    "row": 6,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 80,
+    "symbol": "Hg",
+    "name": "Raksa",
+    "mass": 200.5923,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      2
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2",
+    "summary": "Merkuri adalah suatu unsur kimia dengan lambang Hg dan nomor atom 80. Umumnya dikenal dengan nama air raksa dan sebelumnya bernama hydrargyrum (/haɪˈdrɑːrdʒərəm/). Sebagai unsur blok d yang berat dan berwarna keperakan, merkuri adalah satu-satunya unsur logam yang berbentuk cair pada kondisi suhu dan tekanan standar; satu-satunya unsur lain yang berbentuk cair pada kondisi ini adalah brom, meskipun logam seperti sesium, galium, dan rubidium meleleh tepat di atas suhu kamar.",
+    "row": 6,
+    "column": 12,
+    "phase": "Cair"
+  },
+  {
+    "number": 81,
+    "symbol": "Tl",
+    "name": "Talium",
+    "mass": 204.38,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      3
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p1",
+    "summary": "Talium adalah unsur kimia dengan simbol Tl dan nomor atom 81. Logam pasca transisi berwarna abu-abu lembut ini tidak ditemukan bebas di alam. Jika diisolasi, bentuknya menyerupai timah, namun berubah warna jika terkena udara.",
+    "row": 6,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 82,
+    "symbol": "Pb",
+    "name": "Timbal",
+    "mass": 207.21,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      4
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p2",
+    "summary": "Timbal (/lɛd/) adalah suatu unsur kimia dalam golongan karbon dengan lambang Pb (dari bahasa Latin:plumbum) dan nomor atom 82. Timbal merupakan logam pasca transisi yang lunak, mudah dibentuk, dan berat. Timbal metalik memiliki warna putih kebiruan setelah baru dipotong, namun segera memudar menjadi warna keabu-abuan kusam jika terkena udara.",
+    "row": 6,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 83,
+    "symbol": "Bi",
+    "name": "Bismut",
+    "mass": 208.980401,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      5
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p3",
+    "summary": "Bismut adalah suatu unsur kimia dengan lambang Bi dan nomor atom 83. Bismut, suatu logam pasca transisi pentavalen, secara kimia menyerupai arsenik dan antimon. Unsur bismut dapat terbentuk secara alami, meskipun sulfida dan oksidanya membentuk bijih komersial yang penting.",
+    "row": 6,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "mass": 209,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      6
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p4",
+    "summary": "Polonium adalah unsur kimia dengan simbol Po dan nomor atom 84, ditemukan pada tahun 1898 oleh Marie Curie dan Pierre Curie. Unsur langka dan sangat radioaktif tanpa isotop stabil, polonium secara kimia mirip dengan bismut dan telurium, dan terdapat pada bijih uranium. Penerapan polonium sedikit.",
+    "row": 6,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 85,
+    "symbol": "At",
+    "name": "Astatin",
+    "mass": 210,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      7
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p5",
+    "summary": "Astatin adalah unsur kimia radioaktif yang sangat langka dengan simbol kimia At dan nomor atom 85. Astatin terdapat di Bumi sebagai produk peluruhan berbagai unsur yang lebih berat. Semua isotopnya berumur pendek; yang paling stabil adalah astatin-210, dengan waktu paruh 8,1 jam.",
+    "row": 6,
+    "column": 17,
+    "phase": "Padat"
+  },
+  {
+    "number": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "mass": 222,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8
+    ],
+    "electronConfig": "[Xe] 4f14 5d10 6s2 6p6",
+    "summary": "Radon adalah unsur kimia dengan simbol Rn dan nomor atom 86. Radon adalah gas mulia radioaktif, tidak berwarna, tidak berbau, tidak berasa, terjadi secara alami sebagai produk peluruhan radium. Isotopnya yang paling stabil, 222Rn, mempunyai waktu paruh 3,8 hari.",
+    "row": 6,
+    "column": 18,
+    "phase": "Gas"
+  },
+  {
+    "number": 87,
+    "symbol": "Fr",
+    "name": "Fransium",
+    "mass": 223,
+    "category": "alkali-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      1
+    ],
+    "electronConfig": "[Rn] 7s1",
+    "summary": "Fransium adalah unsur kimia dengan simbol Fr dan nomor atom 87. Dulunya dikenal sebagai eka-cesium dan aktinium K. Ini adalah unsur elektronegatif terkecil kedua, setelah sesium. Fransium adalah logam sangat radioaktif yang terurai menjadi astatin, radium, dan radon.",
+    "row": 7,
+    "column": 1,
+    "phase": "Padat"
+  },
+  {
+    "number": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "mass": 226,
+    "category": "alkaline-earth-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 7s2",
+    "summary": "Radium adalah suatu unsur kimia dengan lambang Ra dan nomor atom 88. Merupakan unsur keenam dalam golongan 2 tabel periodik, juga dikenal sebagai logam alkali tanah. Radium murni hampir tidak berwarna, namun mudah bergabung dengan nitrogen (bukan oksigen) jika terkena udara, membentuk lapisan permukaan hitam radium nitrida (Ra3N2).",
+    "row": 7,
+    "column": 2,
+    "phase": "Padat"
+  },
+  {
+    "number": 89,
+    "symbol": "Ac",
+    "name": "Aktinium",
+    "mass": 227,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      9,
+      2
+    ],
+    "electronConfig": "[Rn] 6d1 7s2",
+    "summary": "Aktinium adalah unsur kimia radioaktif dengan simbol Ac (jangan bingung dengan singkatan gugus asetil) dan nomor atom 89, yang ditemukan pada tahun 1899. Ini adalah unsur radioaktif non-primordial pertama yang diisolasi. Polonium, radium dan radon diamati sebelum aktinium, tetapi mereka tidak diisolasi sampai tahun 1902.",
+    "row": 9,
+    "column": 3,
+    "phase": "Padat"
+  },
+  {
+    "number": 90,
+    "symbol": "Th",
+    "name": "Torium",
+    "mass": 232.03774,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      10,
+      2
+    ],
+    "electronConfig": "[Rn] 6d2 7s2",
+    "summary": "Torium adalah suatu unsur kimia dengan simbol Th dan nomor atom 90. Merupakan logam aktinida radioaktif, torium adalah salah satu dari hanya dua unsur radioaktif signifikan yang masih terdapat secara alami dalam jumlah besar sebagai unsur primordial (yang lainnya adalah uranium). Ditemukan pada tahun 1828 oleh Pendeta Norwegia dan ahli mineralogi amatir Morten Thrane Esmark dan diidentifikasi oleh ahli kimia Swedia Jöns Jakob Berzelius, yang menamainya dengan nama Thor, dewa guntur Norse.",
+    "row": 9,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 91,
+    "symbol": "Pa",
+    "name": "Protaktinium",
+    "mass": 231.035882,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      20,
+      9,
+      2
+    ],
+    "electronConfig": "[Rn] 5f2 6d1 7s2",
+    "summary": "Protaktinium adalah unsur kimia dengan simbol Pa dan nomor atom 91. Merupakan logam padat berwarna abu-abu keperakan yang mudah bereaksi dengan oksigen, uap air, dan asam anorganik. Ia membentuk berbagai senyawa kimia di mana protaktinium biasanya terdapat dalam bilangan oksidasi +5, tetapi juga dapat mengambil bilangan +4 dan bahkan +2 atau +3.",
+    "row": 9,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "mass": 238.03,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      21,
+      9,
+      2
+    ],
+    "electronConfig": "[Rn] 5f³ 6d¹ 7s²",
+    "summary": "Logam aktinida keperakan yang bersifat radioaktif dan sangat padat. Merupakan bahan bakar utama untuk reaktor nuklir.",
+    "row": 7,
+    "column": 3,
+    "phase": "Padat"
+  },
+  {
+    "number": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "mass": 237,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      22,
+      9,
+      2
+    ],
+    "electronConfig": "[Rn] 5f4 6d1 7s2",
+    "summary": "Neptunium adalah suatu unsur kimia dengan simbol Np dan nomor atom 93. Merupakan logam aktinida radioaktif, neptunium adalah unsur transuranik pertama. Posisinya dalam tabel periodik tepat setelah uranium, dinamai menurut nama planet Uranus, menyebabkan ia dinamai menurut Neptunus, planet berikutnya setelah Uranus.",
+    "row": 9,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "mass": 244,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      24,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f6 7s2",
+    "summary": "Plutonium adalah unsur kimia radioaktif transuranik dengan lambang Pu dan nomor atom 94. Merupakan logam aktinida berwarna abu-abu keperakan yang memudar bila terkena udara, dan membentuk lapisan kusam bila teroksidasi. Unsur ini biasanya menunjukkan enam alotrop dan empat bilangan oksidasi.",
+    "row": 9,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 95,
+    "symbol": "Am",
+    "name": "Amerisium",
+    "mass": 243,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f7 7s2",
+    "summary": "Amerisium adalah unsur kimia transuranium radioaktif dengan simbol Am dan nomor atom 95. Anggota deret aktinida ini terletak dalam tabel periodik di bawah unsur lantanida europium, dan dengan analogi dinamai menurut nama Amerika. Americium pertama kali diproduksi pada tahun 1944 oleh kelompok Glenn T.Seaborg dari Berkeley, California, di laboratorium metalurgi Universitas Chicago.",
+    "row": 9,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 96,
+    "symbol": "Cm",
+    "name": "Kurium",
+    "mass": 247,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      9,
+      2
+    ],
+    "electronConfig": "[Rn] 5f7 6d1 7s2",
+    "summary": "Curium adalah unsur kimia radioaktif transuranik dengan simbol Cm dan nomor atom 96. Unsur seri aktinida ini dinamai Marie dan Pierre Curie – keduanya dikenal karena penelitian mereka tentang radioaktivitas. Curium pertama kali sengaja diproduksi dan diidentifikasi pada bulan Juli 1944 oleh kelompok Glenn T. Seaborg di Universitas California, Berkeley.",
+    "row": 9,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "mass": 247,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      27,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f9 7s2",
+    "summary": "Berkelium adalah unsur kimia radioaktif transuranik dengan lambang Bk dan nomor atom 97. Ia merupakan anggota rangkaian unsur aktinida dan transuranium. Namanya diambil dari kota Berkeley, California, lokasi Laboratorium Radiasi Universitas California di mana ia ditemukan pada bulan Desember 1949.",
+    "row": 9,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 98,
+    "symbol": "Cf",
+    "name": "Kalifornium",
+    "mass": 251,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      28,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f10 7s2",
+    "summary": "Kalifornium adalah unsur kimia logam radioaktif dengan lambang Cf dan nomor atom 98. Unsur ini pertama kali dibuat pada tahun 1950 di Laboratorium Radiasi Universitas California di Berkeley, dengan membombardir curium dengan partikel alfa (ion helium-4). Ini adalah unsur aktinida, unsur transuranium keenam yang disintesis, dan memiliki massa atom tertinggi kedua dari semua unsur yang telah diproduksi dalam jumlah yang cukup besar untuk dilihat dengan mata telanjang (setelah einsteinium).",
+    "row": 9,
+    "column": 12,
+    "phase": "Padat"
+  },
+  {
+    "number": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "mass": 252,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      29,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f11 7s2",
+    "summary": "Einsteinium adalah unsur sintetik dengan simbol Es dan nomor atom 99. Ia adalah unsur transuranium ketujuh, dan merupakan aktinida. Einsteinium ditemukan sebagai komponen puing-puing ledakan bom hidrogen pertama pada tahun 1952, dan dinamai menurut nama Albert Einstein.",
+    "row": 9,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "mass": 257,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      30,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f12 7s2",
+    "summary": "Fermium adalah unsur sintetik dengan simbol Fm dan nomor atom 100. Fermium merupakan anggota deret aktinida. Ini adalah unsur terberat yang dapat dibentuk melalui bombardir neutron terhadap unsur yang lebih ringan, dan karenanya merupakan unsur terakhir yang dapat dibuat dalam jumlah makroskopis, meskipun logam fermium murni belum dapat dibuat.",
+    "row": 9,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "mass": 258,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      31,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f13 7s2",
+    "summary": "Mendelevium adalah unsur sintetik dengan simbol kimia Md (sebelumnya Mv) dan nomor atom 101. Unsur transuranik radioaktif logam dalam deret aktinida, merupakan unsur pertama yang saat ini tidak dapat diproduksi dalam jumlah makroskopis melalui pemboman neutron terhadap unsur yang lebih ringan. Ini adalah aktinida antepenultimate dan elemen transuranik kesembilan.",
+    "row": 9,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "mass": 259,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      2
+    ],
+    "electronConfig": "[Rn] 5f14 7s2",
+    "summary": "Nobelium adalah unsur kimia sintetik dengan simbol No dan nomor atom 102. Nama ini diambil untuk menghormati Alfred Nobel, penemu dinamit dan dermawan ilmu pengetahuan. Merupakan logam radioaktif, merupakan unsur transuranik kesepuluh dan merupakan anggota kedua dari belakang deret aktinida.",
+    "row": 9,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 103,
+    "symbol": "Lr",
+    "name": "Lawrensium",
+    "mass": 266,
+    "category": "actinide",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      3
+    ],
+    "electronConfig": "[Rn] 5f14 7s2 7p1",
+    "summary": "Lawrencium adalah unsur kimia sintetis dengan simbol kimia Lr (sebelumnya Lw) dan nomor atom 103. Nama ini diambil untuk menghormati Ernest Lawrence, penemu siklotron, perangkat yang digunakan untuk menemukan banyak unsur radioaktif buatan. Sebuah logam radioaktif, lawrencium adalah unsur transuranik kesebelas dan juga merupakan anggota terakhir dari deret aktinida.",
+    "row": 9,
+    "column": 17,
+    "phase": "Padat"
+  },
+  {
+    "number": 104,
+    "symbol": "Rf",
+    "name": "Ruterfordium",
+    "mass": 267,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      10,
+      2
+    ],
+    "electronConfig": "[Rn] 5f14 6d2 7s2",
+    "summary": "Rutherfordium adalah unsur kimia dengan simbol Rf dan nomor atom 104, dinamai untuk menghormati fisikawan Ernest Rutherford. Merupakan unsur sintetik (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam) dan radioaktif; isotop paling stabil yang diketahui, 267Rf, memiliki waktu paruh sekitar 1,3 jam. Dalam tabel periodik unsur, unsur ini merupakan unsur blok d dan unsur transisi baris kedua dari baris keempat.",
+    "row": 7,
+    "column": 4,
+    "phase": "Padat"
+  },
+  {
+    "number": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "mass": 268,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      11,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d3 7s2",
+    "summary": "Dubnium adalah suatu unsur kimia dengan simbol Db dan nomor atom 105. Namanya diambil dari nama kota Dubna di Rusia (utara Moskow), tempat ia pertama kali diproduksi. Merupakan unsur sintetik (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam) dan radioaktif; isotop paling stabil yang diketahui, dubnium-268, memiliki waktu paruh sekitar 28 jam.",
+    "row": 7,
+    "column": 5,
+    "phase": "Padat"
+  },
+  {
+    "number": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "mass": 269,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      12,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d4 7s2",
+    "summary": "Seaborgium adalah unsur sintetik dengan simbol Sg dan nomor atom 106. Isotop paling stabilnya, 271Sg, memiliki waktu paruh 1,9 menit. Isotop 269Sg yang baru ditemukan berpotensi memiliki waktu paruh yang sedikit lebih lama (ca.",
+    "row": 7,
+    "column": 6,
+    "phase": "Padat"
+  },
+  {
+    "number": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "mass": 270,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      13,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d5 7s2",
+    "summary": "Bohrium adalah suatu unsur kimia dengan simbol Bh dan nomor atom 107. Namanya diambil dari nama fisikawan Denmark Niels Bohr. Merupakan unsur sintetik (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam) dan radioaktif; isotop paling stabil yang diketahui, 270Bh, memiliki waktu paruh sekitar 61 detik.",
+    "row": 7,
+    "column": 7,
+    "phase": "Padat"
+  },
+  {
+    "number": 108,
+    "symbol": "Hs",
+    "name": "Hasium",
+    "mass": 269,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      14,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d6 7s2",
+    "summary": "Hassium adalah unsur kimia dengan simbol Hs dan nomor atom 108, dinamai berdasarkan nama negara bagian Hesse di Jerman. Merupakan unsur sintetik (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam) dan radioaktif; isotop paling stabil yang diketahui, 269Hs, memiliki waktu paruh sekitar 9,7 detik, meskipun keadaan metastabil yang belum dikonfirmasi, 277mHs, mungkin memiliki waktu paruh lebih lama sekitar 130 detik. Lebih dari 100 atom hassium telah disintesis hingga saat ini.",
+    "row": 7,
+    "column": 8,
+    "phase": "Padat"
+  },
+  {
+    "number": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "mass": 278,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      15,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d7 7s2",
+    "summary": "Meitnerium adalah unsur kimia dengan simbol Mt dan nomor atom 109. Meitnerium adalah unsur sintetik yang sangat radioaktif (unsur yang tidak ditemukan di alam dan dapat dibuat di laboratorium). Isotop paling stabil yang diketahui, meitnerium-278, memiliki waktu paruh 7,6 detik.",
+    "row": 7,
+    "column": 9,
+    "phase": "Padat"
+  },
+  {
+    "number": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "mass": 281,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      16,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d9 7s1",
+    "summary": "Darmstadtium adalah suatu unsur kimia dengan simbol Ds dan nomor atom 110. Merupakan unsur sintetik yang sangat radioaktif. Isotop paling stabil yang diketahui, darmstadtium-281, memiliki waktu paruh sekitar 10 detik.",
+    "row": 7,
+    "column": 10,
+    "phase": "Padat"
+  },
+  {
+    "number": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "mass": 282,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      17,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s1",
+    "summary": "Roentgenium adalah unsur kimia dengan simbol Rg dan nomor atom 111. Merupakan unsur sintetik yang sangat radioaktif (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam); isotop paling stabil yang diketahui, roentgenium-282, memiliki waktu paruh 2,1 menit. Roentgenium pertama kali dibuat pada tahun 1994 oleh Pusat Penelitian Ion Berat GSI Helmholtz dekat Darmstadt, Jerman.",
+    "row": 7,
+    "column": 11,
+    "phase": "Padat"
+  },
+  {
+    "number": 112,
+    "symbol": "Cn",
+    "name": "Kopernisium",
+    "mass": 285,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      2
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2",
+    "summary": "Copernicium adalah unsur kimia dengan simbol Cn dan nomor atom 112. Merupakan unsur sintetik yang sangat radioaktif yang hanya dapat dibuat di laboratorium. Isotop paling stabil yang diketahui, copernicium-285, memiliki waktu paruh sekitar 29 detik, namun ada kemungkinan bahwa isotop copernicium ini memiliki isomer nuklir dengan waktu paruh lebih lama, 8,9 menit.",
+    "row": 7,
+    "column": 12,
+    "phase": "Cair"
+  },
+  {
+    "number": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "mass": 286,
+    "category": "transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      3
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p1",
+    "summary": "Nihonium adalah unsur kimia dengan nomor atom 113. Ia memiliki simbol Nh. Ini adalah unsur sintetis (unsur yang dapat dibuat di laboratorium tetapi tidak ditemukan di alam) dan sangat radioaktif; isotop paling stabil yang diketahui, nihonium-286, memiliki waktu paruh 20 detik.",
+    "row": 7,
+    "column": 13,
+    "phase": "Padat"
+  },
+  {
+    "number": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "mass": 289,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      4
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p2",
+    "summary": "Flerovium adalah unsur kimia buatan superberat dengan simbol Fl dan nomor atom 114. Ini adalah unsur sintetis yang sangat radioaktif. Nama unsur ini diambil dari Laboratorium Reaksi Nuklir Flerov dari Institut Gabungan untuk Penelitian Nuklir di Dubna, Rusia, tempat unsur tersebut ditemukan pada tahun 1998.",
+    "row": 7,
+    "column": 14,
+    "phase": "Padat"
+  },
+  {
+    "number": 115,
+    "symbol": "Mc",
+    "name": "Moskovium",
+    "mass": 289,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      5
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p3",
+    "summary": "Moscovium adalah nama unsur superberat sintetik dalam tabel periodik yang memiliki simbol Mc dan memiliki nomor atom 115. Merupakan unsur yang sangat radioaktif; isotop paling stabil yang diketahui, moscovium-289, memiliki waktu paruh hanya 220 milidetik. Ia juga dikenal sebagai eka-bismut atau hanya unsur 115.",
+    "row": 7,
+    "column": 15,
+    "phase": "Padat"
+  },
+  {
+    "number": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "mass": 293,
+    "category": "post-transition-metal",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      6
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p4",
+    "summary": "Livermorium adalah unsur superberat sintetik dengan simbol Lv dan nomor atom 116. Ini adalah unsur yang sangat radioaktif yang hanya dibuat di laboratorium dan belum pernah diamati di alam. Nama unsur ini diambil dari nama Laboratorium Nasional Lawrence Livermore di Amerika Serikat, yang bekerja sama dengan Institut Gabungan untuk Penelitian Nuklir di Dubna, Rusia untuk menemukan livermorium pada tahun 2000.",
+    "row": 7,
+    "column": 16,
+    "phase": "Padat"
+  },
+  {
+    "number": 117,
+    "symbol": "Ts",
+    "name": "Tenesin",
+    "mass": 294,
+    "category": "metalloid",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      7
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p5",
+    "summary": "Tennessine adalah unsur kimia buatan superberat dengan nomor atom 117 dan simbol Ts. Juga dikenal sebagai eka-astatin atau unsur 117, unsur ini merupakan unsur terberat kedua dan unsur kedua dari belakang pada periode ke-7 tabel periodik. Pada tahun 2016, lima belas atom tennessine telah diamati: enam saat pertama kali disintesis pada tahun 2010, tujuh pada tahun 2012, dan dua pada tahun 2014.",
+    "row": 7,
+    "column": 17,
+    "phase": "Padat"
+  },
+  {
+    "number": 118,
+    "symbol": "Og",
+    "name": "Oganeson",
+    "mass": 294,
+    "category": "noble-gas",
+    "shells": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      8
+    ],
+    "electronConfig": "*[Rn] 5f14 6d10 7s2 7p6",
+    "summary": "Oganesson adalah nama IUPAC untuk unsur transaktinida dengan nomor atom 118 dan lambang unsur Og. Ia juga dikenal sebagai eka-radon atau unsur 118, dan pada tabel periodik unsur-unsur tersebut merupakan unsur blok p dan terakhir pada periode ke-7. Oganesson saat ini menjadi satu-satunya anggota sintetik di grup 18.",
+    "row": 7,
+    "column": 18,
+    "phase": "Padat"
+  }
+]

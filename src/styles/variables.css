@@ -1,0 +1,53 @@
+:root {
+  /* Color Palette - Nature Science Theme */
+  --bg-primary: #04120e;
+  --bg-secondary: #082119;
+  --bg-tertiary: #0f3025;
+  
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --text-muted: #6b7280;
+
+  /* Neon science accents */
+  --accent-teal: #00f2fe;
+  --accent-blue: #3a92ff;
+  --accent-purple: #0ea5e9;
+  --accent-magenta: #10b981;
+  --accent-yellow: #38bdf8;
+  
+  /* Chemical particle colors */
+  --color-proton: #ff5e62;
+  --color-neutron: #ff9966;
+  --color-electron: #00f2fe;
+
+  /* Categorized element colors */
+  --cat-diatomic-nonmetal: #3b82f6;
+  --cat-noble-gas: #ec4899;
+  --cat-alkali-metal: #ef4444;
+  --cat-alkaline-earth-metal: #f97316;
+  --cat-metalloid: #10b981;
+  --cat-polyatomic-nonmetal: #8b5cf6;
+  --cat-post-transition-metal: #06b6d4;
+  --cat-transition-metal: #eab308;
+  --cat-lanthanide: #f43f5e;
+  --cat-actinide: #a855f7;
+
+  /* Glassmorphism settings */
+  --glass-bg: rgba(6, 22, 32, 0.78);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-border-glow: rgba(79, 172, 254, 0.25);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+
+  /* Fonts */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Card styling */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
