@@ -250,14 +250,16 @@ html.lenis, html.lenis body {
     z-index: 100 !important;
   }
   
-  /* Keep Logo on Left, hide text */
+  /* Keep Logo on Left, adjust text size */
   nav > div:first-child {
     display: flex !important;
     align-items: center !important;
+    gap: 6px !important;
   }
 
   .logo-text {
-    display: none !important;
+    font-size: 16px !important;
+    display: inline-block !important;
   }
 
   /* Make buttons container flex on right */
