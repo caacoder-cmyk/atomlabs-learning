@@ -3957,7 +3957,7 @@ export default function LearnPage({ setActivePage }) {
                           fontWeight: 700
                         }}
                       >
-                        Mulai Kuis Evaluasi (45 Soal) &rarr;
+                        Mulai Kuis Evaluasi (30 Soal) &rarr;
                       </button>
                     ) : (
                       <button
