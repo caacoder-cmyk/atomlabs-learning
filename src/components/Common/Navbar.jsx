@@ -12,9 +12,7 @@ export default function Navbar({ activePage, setActivePage }) {
 
   return (
     <nav className="glass-panel" style={{
-      position: 'sticky',
-      top: '16px',
-      zIndex: 100,
+      position: 'relative',
       margin: '16px auto',
       width: 'calc(100% - 32px)',
       maxWidth: '1200px',

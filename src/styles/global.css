@@ -235,8 +235,8 @@ html.lenis, html.lenis body {
   }
   
   nav {
-    position: sticky !important;
-    top: 8px !important;
+    position: relative !important;
+    top: auto !important;
     margin: 8px auto !important;
     width: calc(100% - 16px) !important;
     padding: 8px 12px !important;
